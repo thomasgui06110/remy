@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ 
+        <!--  Sitemap Generator http://www.atm-web.fr -->
+        
+	 <url>
+		 
+        <loc>https://www.remyjaume.com/</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com//index.php</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com/artiste.php</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com/artisteb.php</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com/oeuvres.php?Cat=Dessins</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com/oeuvres.php?Cat=Peintures</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com/contact.php</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com//artiste.php</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com//artisteb.php</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com//oeuvres.php?Cat=Dessins</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com//oeuvres.php?Cat=Peintures</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com//contact.php</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+	 <url>
+		 
+        <loc>https://www.remyjaume.com/index.php</loc> 
+		<changefreq>yearly</changefreq>
+	</url> 
+</urlset>
