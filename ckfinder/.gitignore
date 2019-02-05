@@ -1,0 +1,4 @@
+# Mettre un .gitignore dans le dossier et d'y ajouter les deux lignes suivantes
+
+*
+!.gitignore
